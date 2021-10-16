@@ -33,6 +33,11 @@
 
 
 #### Name: Priyanh Singh
+
+#### Name: Vaishnavi Saindane
+- Place: maharashtra,India
+- Bio: IT Engineering Student
+- GitHub: [GitHub vaishnavisaindane](https://github.com/vaishnavisaindane)
 - Place: Midgard
 - Bio: Student
 - GitHub: https://github.com/ps-19
